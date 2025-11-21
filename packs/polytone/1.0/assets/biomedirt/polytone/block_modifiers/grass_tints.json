@@ -1,0 +1,9 @@
+{
+    "targets": [
+        "minecraft:grass_block"
+    ],
+    "colormap": {
+        "0": "minecraft:grass_color",
+        "2": "biomedirt:dirt_tints_2"
+    }
+}

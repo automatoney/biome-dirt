@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "description": "Biome specific dirt colors",
+    "supported_formats": [12, 42]
+  }
+}

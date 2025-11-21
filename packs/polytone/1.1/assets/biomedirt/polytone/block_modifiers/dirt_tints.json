@@ -1,0 +1,14 @@
+{
+    "targets": [
+        "minecraft:dirt",
+        "minecraft:rooted_dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:mycelium",
+        "minecraft:farmland",
+        "minecraft:dirt_path"
+    ],
+    "colormap": {
+        "2": "biomedirt:dirt_tints_2"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "particle": "block/coarse_dirt",
+    "all": "minecraft:block/coarse_dirt"
+  }
+}

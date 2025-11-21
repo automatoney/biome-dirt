@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "particle": "block/dirt",
+    "all": "minecraft:block/dirt_gray"
+  }
+}
