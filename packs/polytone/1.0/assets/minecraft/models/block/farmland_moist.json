@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/tint_farmland",
   "textures": {
-    "particle": "block/dirt",
+    "particle": "block/dirt_gray",
     "dirt": "minecraft:block/dirt_gray",
     "top": "minecraft:block/farmland"
   }

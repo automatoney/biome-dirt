@@ -9,6 +9,6 @@
         "minecraft:dirt_path"
     ],
     "colormap": {
-        "2": "biomedirt:dirt_tints_2"
+        "0": "biomedirt:dirt_tints_2"
     }
 }

@@ -1,7 +1,6 @@
 {
   "parent": "minecraft:block/tint_all",
   "textures": {
-    "particle": "block/rooted_dirt",
     "all": "minecraft:block/rooted_dirt_gray"
   }
 }

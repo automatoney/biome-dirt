@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/tint_bottom_top",
   "textures": {
-    "particle": "block/mycelium_side",
+    "particle": "block/mycelium_side_gray",
     "bottom": "minecraft:block/dirt_gray",
     "side": "minecraft:block/mycelium_side_gray",
     "top": "minecraft:block/mycelium_top_gray"

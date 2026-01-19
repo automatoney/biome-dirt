@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/tint_bottom_top",
   "textures": {
-    "particle": "block/podzol_side",
+    "particle": "block/podzol_side_gray",
     "bottom": "minecraft:block/dirt_gray",
     "side": "minecraft:block/podzol_side_gray",
     "top": "minecraft:block/podzol_top_gray"
